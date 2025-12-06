@@ -13,6 +13,7 @@ public class Ques_22 {
                 System.out.println("" + word.charAt(0) + between + word.charAt(word.length() - 1));
             } else {
                 System.out.println(word);
+                
             }
         }
     }

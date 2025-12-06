@@ -24,7 +24,6 @@ public class Ques_18 {
                 worst = scores[i];
             }
         }
-
         System.out.println(amazing);
     }
 }
