@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ques_1{
   public static void main (String[]args){
     //  A. Young Physicist 
-     Scanner sc = new Scanner(System.in);
+      Scanner sc = new Scanner(System.in);
      int n = sc.nextInt();
      int sumX = 0,sumY = 0,sumZ = 0;
      for(int i = 0;i<n;i++){
